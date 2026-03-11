@@ -1,6 +1,6 @@
 # Hi, I'm Andy Rosic
 
-Product leader who builds. Managing Partner at [Uninvited](https://uninvitedllc.com), an AI-powered holdco.
+Product leader who builds. Managing Partner at [Uninvited](https://uninvitedllc.com), an AI-powered holdco with brands like [Software Intelligence Works](https://siworks.co) and [Trust Home Loan](https://trusthomeloan.com).
 
 ## What I Build
 
