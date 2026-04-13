@@ -1,6 +1,6 @@
 # Hi, I'm Andy Rosic
 
-Product leader who builds. Managing Partner at [Uninvited](https://uninvitedllc.com), an AI-powered holdco with brands like [Software Intelligence Works](https://siworks.co) and [Trust Home Loan](https://trusthomeloan.com).
+Product and operations leader who builds. Managing Partner at [Software Intelligence Works](https://siworks.co).
 
 ## What I Build
 
@@ -15,7 +15,7 @@ I also ship open-source tooling for [Claude Code](https://claude.ai/code):
 
 Years of experience shipping products at Apple, Marvel Studios, Kroger, Home Depot, and Cvent. Co-founded 4 startups. Advised 40+ more.
 
-Currently building AI-powered software, logistics, and lead acquisition systems at Uninvited and [SIWorks](https://siworks.co). Also co-founded [Trust Home Loan](https://trusthomeloan.com).
+Currently building AI-powered software, logistics, and lead acquisition systems for brands like [Dun & Bradstreet](https://dnb.com). Also co-founded [Trust Home Loan](https://trusthomeloan.com).
 
 ## Common Stack
 
