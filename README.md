@@ -8,6 +8,7 @@ I also ship open-source tooling for [Claude Code](https://claude.ai/code):
 
 - **[TinMan](https://github.com/andyuninvited/tinman_for_claudecode)** — Scheduled heartbeats for Claude Code. Proactive monitoring that tells you when something needs attention.
 - **[C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode)** — Telegram bridge for Claude Code. DM your agent from your phone, get answers back.
+- - A pretty view/description of TinMan & C3Poh: **[Site](https://andyuninvited.github.io/tinman_for_claudecode/)**
 - **[Heartbeat Templates](https://github.com/andyuninvited/heartbeat-templates)** — Ready-to-use checklists for TinMan across different workflows.
 - **[Agent Blueprints](https://github.com/andyuninvited/agent-blueprints)** — Starter templates for common business AI agents.
 
