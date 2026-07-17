@@ -12,6 +12,11 @@ I also ship open-source tooling for [Claude Code](https://claude.ai/code):
 - **[Heartbeat Templates](https://github.com/andyuninvited/heartbeat-templates)** — Ready-to-use checklists for TinMan across different workflows.
 - **[Agent Blueprints](https://github.com/andyuninvited/agent-blueprints)** — Starter templates for common business AI agents.
 
+## Product Concepts
+
+**[EMBER](https://github.com/andyuninvited/ember-launcher)** — Open-source concept demo of a player-first game
+  launcher. No ads, no paid placement, ownership as user agency. [Live demo](https://ember-launcher.vercel.app)
+
 ## Background
 
 Years of experience shipping products at Apple, Marvel Studios, Kroger, Home Depot, and Cvent. Co-founded 4 startups. Advised 40+ more.
