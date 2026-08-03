@@ -4,6 +4,8 @@ Product and operations leader who builds. Managing Partner at [Software Intellig
 
 ## What I Build
 
+I build agentic AI products hands-on, using a multi-agent system for production, customer-facing products. I'm pushing the state-of-the-art on structured audit receipts for LLM tooling, tracking split analytics where customers and agents both utilize a product/feature, and provenance for scientific use of genAI. All to make sure that **trust** and **delight** remain, especially when accuracy, consistency, and low friction are required.
+
 I also ship open-source tooling for [Claude Code](https://claude.ai/code):
 
 - **[TinMan](https://github.com/andyuninvited/tinman_for_claudecode)** — Scheduled heartbeats for Claude Code. Proactive monitoring that tells you when something needs attention.
