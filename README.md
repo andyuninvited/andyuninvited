@@ -23,7 +23,7 @@ I also ship open-source tooling for [Claude Code](https://claude.ai/code):
 
 Years of experience shipping products at Apple, Marvel Studios, Kroger, Home Depot, and Cvent. Co-founded 4 startups. Advised 40+ more.
 
-Currently building AI-powered software, logistics, and lead acquisition systems for brands like [Dun & Bradstreet](https://dnb.com). Also co-founded [Trust Home Loan](https://trusthomeloan.com).
+Currently building AI-powered software, logistics, and lead acquisition systems for brands like [Dun & Bradstreet](https://dnb.com). Also launched a compliance-heavy fintech product [Trust Home Loan](https://trusthomeloan.com).
 
 ## Common Stack
 
