@@ -1,38 +1,42 @@
 # Hi, I'm Andy Rosic
 
-Product and operations leader who builds. Managing Partner at [Software Intelligence Works](https://siworks.co).
+Product leader who builds. I design, build, and ship software and AI systems people can trust, from strategy through an enterprise v1, and I write the code myself.
 
-## What I Build
+**[andyrosic.com](https://andyrosic.com)**
 
-I build agentic AI products hands-on, using a multi-agent system for production, customer-facing products. I'm pushing the state-of-the-art on structured audit receipts for LLM tooling, tracking split analytics where customers and agents both utilize a product/feature, and provenance for scientific use of genAI. All to make sure that **trust** and **delight** remain, especially when accuracy, consistency, and low friction are required.
+## What I'm building
 
-I also ship open-source tooling for [Claude Code](https://claude.ai/code):
+- **[Super Mega Mind](https://supermegamind.com)** - Upload a customer list and see who your customers actually are, without exposing a single record. Match keys are hashed in memory and only aggregates come back, over the web, a REST API, or an MCP server.
+- **[Rosicodex](https://www.rosicodex.com)** - A provenance instrument for AI-assisted science. Every AI answer ships with a content-addressed receipt a reviewer can verify, and the model never grades its own confidence. [Live demo](https://www.rosicodex.com/demo)
 
-- **[TinMan](https://github.com/andyuninvited/tinman_for_claudecode)** — Scheduled heartbeats for Claude Code. Proactive monitoring that tells you when something needs attention.
-- **[C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode)** — Telegram bridge for Claude Code. DM your agent from your phone, get answers back.
-- - A pretty view/description of TinMan & C3Poh: **[Site](https://andyuninvited.github.io/tinman_for_claudecode/)**
-- **[Heartbeat Templates](https://github.com/andyuninvited/heartbeat-templates)** — Ready-to-use checklists for TinMan across different workflows.
-- **[Agent Blueprints](https://github.com/andyuninvited/agent-blueprints)** — Starter templates for common business AI agents.
+## Client work
 
-## Product Concepts
+- **[Jantzen Fuel Depot + Cascade Paddle Boards](https://www.jantzenfueldepot.com)** - One site for a floating fuel dock on the Columbia River and the paddle board rentals beside it, with live hours the owners edit themselves and 14 SEO and AEO guide pages.
+- **JuryBoard** - A jury selection app for trial lawyers, rebuilt from a native iPad app into an installed app for Windows, Mac, and Chromebook.
 
-**[EMBER](https://github.com/andyuninvited/ember-launcher)** — Open-source concept demo of a player-first game
-  launcher. No ads, no paid placement, ownership as user agency. [Live demo](https://ember-launcher.vercel.app)
+Past clients include Kroger, Dun & Bradstreet, and Cross Country Mortgage.
+
+## Open source
+
+- **[Retail Receipts on NVIDIA](https://github.com/andyuninvited/nvidia-receipts)** - Audit-grade retail agent on NVIDIA NIM. Every answer ships with a structured receipt for the risk committee. [Live demo](https://nvidia-receipts.vercel.app)
+- **[Agent-as-User Landing](https://github.com/andyuninvited/agent-landing)** - Measuring product landing when about 30% of deploys aren't human. [Live demo](https://agent-landing-rosic.vercel.app)
+- **[TinMan](https://github.com/andyuninvited/tinman_for_claudecode)** - Scheduled heartbeats for Claude Code that tell you when something needs attention, with ready-to-use [Heartbeat Templates](https://github.com/andyuninvited/heartbeat-templates). [Overview](https://andyuninvited.github.io/tinman_for_claudecode/)
+- **[C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode)** - A Telegram bridge for Claude Code. DM your agent from your phone and get answers back.
+- **[Agent Blueprints](https://github.com/andyuninvited/agent-blueprints)** - Starter templates for common business AI agents.
+- **[EMBER](https://github.com/andyuninvited/ember-launcher)** - Open-source concept demo of a player-first game launcher. No ads, no paid placement. [Live demo](https://ember-launcher.vercel.app)
 
 ## Background
 
-Years of experience shipping products at Apple, Marvel Studios, Kroger, Home Depot, and Cvent. Co-founded 4 startups. Advised 40+ more.
+My product work sits behind Apple Retail's point of sale, Kroger's loyalty platform, and Cvent's $1.65B buyout. I've also led product at The Home Depot and at 5th Kind, where Marvel and Universal were clients. I've co-founded 4 startups and advised 40+ more.
 
-Currently building AI-powered software, logistics, and lead acquisition systems for brands like [Dun & Bradstreet](https://dnb.com). Also launched a compliance-heavy fintech product [Trust Home Loan](https://trusthomeloan.com).
+## Common stack
 
-## Common Stack
-
-TypeScript, Python, React, Next.js, PostgreSQL, Claude Code/OpenCode
+TypeScript, Python, React, Next.js, PostgreSQL, and Claude Code
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Web-andyrosic.com-1b4d1e?style=flat)](https://andyrosic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arosic-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arosic)
-[![Website](https://img.shields.io/badge/Web-uninvitedllc.com-000?style=flat&logo=safari)](https://uninvitedllc.com)
 
 ---
 
