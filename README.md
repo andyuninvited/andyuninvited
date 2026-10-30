@@ -6,7 +6,7 @@ Product leader who builds. I design, build, and ship software and AI systems peo
 
 ## New this month
 
-- **[write-like-a-human](https://github.com/andyuninvited/write-like-a-human)** - A Claude Code skill and CLI that learns your writing style from your own edits, then lints the next draft before you see it. Runs locally. `npm i -g write-like-a-human` or install from the plugin marketplace. Try the [It's Giving AI - slop meter](https://its-giving-ai-five.vercel.app) built on its rules.
+- **[write-like-a-human](https://github.com/andyuninvited/write-like-a-human)** - A Claude Code skill and CLI that learns your writing style from your own edits, then lints the next draft before you see it. Runs locally. `npm i -g write-like-a-human` or install from the plugin marketplace. Try the [It's Giving AI - slop meter](https://its-giving-ai-vibes.vercel.app) built on its rules.
 - **[agent-landing](https://github.com/andyuninvited/agent-landing)** - A CLI and Claude Code skill that scans whether an AI agent can use your product and scores whether a launch landed with agents or only with people. [Live site](https://agent-landing-rosic.vercel.app)
 
 ## What I'm building
