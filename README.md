@@ -16,14 +16,16 @@ Product leader who builds. I design, build, and ship software and AI systems peo
 
 Past clients include Kroger, Dun & Bradstreet, and Cross Country Mortgage.
 
+## New this month
+
+- **[write-like-a-human](https://github.com/andyuninvited/write-like-a-human)** - A Claude Code skill and CLI that learns your writing style from your own edits, then checks the next draft before you see it. Install it from the Claude Code plugin marketplace or run `npx write-like-a-human`. Try the [slop meter](https://its-giving-ai-five.vercel.app) built on its rules.
+- **[agent-landing](https://github.com/andyuninvited/agent-landing)** - A CLI and Claude Code skill that scans whether an AI agent can use your product and scores whether a launch landed with agents or only with people. Run `npx agent-landing scan <url>`. [Live demo](https://agent-landing-rosic.vercel.app)
+
 ## Open source
 
 - **[Retail Receipts on NVIDIA](https://github.com/andyuninvited/nvidia-receipts)** - Audit-grade retail agent on NVIDIA NIM. Every answer ships with a structured receipt for the risk committee. [Live demo](https://nvidia-receipts.vercel.app)
-- **[Agent-as-User Landing](https://github.com/andyuninvited/agent-landing)** - Measuring product landing when about 30% of deploys aren't human. [Live demo](https://agent-landing-rosic.vercel.app)
-- **[TinMan](https://github.com/andyuninvited/tinman_for_claudecode)** - Scheduled heartbeats for Claude Code that tell you when something needs attention, with ready-to-use [Heartbeat Templates](https://github.com/andyuninvited/heartbeat-templates). [Overview](https://andyuninvited.github.io/tinman_for_claudecode/)
-- **[C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode)** - A Telegram bridge for Claude Code. DM your agent from your phone and get answers back.
-- **[Agent Blueprints](https://github.com/andyuninvited/agent-blueprints)** - Starter templates for common business AI agents.
 - **[EMBER](https://github.com/andyuninvited/ember-launcher)** - Open-source concept demo of a player-first game launcher. No ads, no paid placement. [Live demo](https://ember-launcher.vercel.app)
+- **Claude Code tooling** - [TinMan](https://github.com/andyuninvited/tinman_for_claudecode) for scheduled heartbeats, [C3Poh](https://github.com/andyuninvited/c3poh_for_claudecode) for a Telegram bridge, and [Agent Blueprints](https://github.com/andyuninvited/agent-blueprints) for starter business agents.
 
 ## Background
 
